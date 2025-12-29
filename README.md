@@ -19,11 +19,3 @@ I am a Computer Science student and an aspiring **Fullstack Developer**. I enjoy
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=horzel02&show_icons=true&theme=radical&hide_border=true" alt="Adam's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horzel02&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
